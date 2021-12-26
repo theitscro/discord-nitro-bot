@@ -68,4 +68,4 @@ async def run(ctx : Context):
             "Вы не установили канал пуликации учпешных кодов"
         )
 
-bot.run("OTE5NTY5NTQxMDc0NDE5ODEz.YbXt3w.Nk59f7zibgNQJHL4fz2IEB0TBOc")
+bot.run("ваш токен")
