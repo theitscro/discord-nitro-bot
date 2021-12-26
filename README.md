@@ -6,4 +6,3 @@ Discord Nitro Generator Bot RUS
 Хей , вы хотели нитро?
 Тогда этот бот вам его сгенерирует
 P.S Есть чекер Rate Limit , https://discord.com/developers/docs/topics/opcodes-and-status-codes#http <- здесь подробно
-Если есть , вам в 
