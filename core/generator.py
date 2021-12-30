@@ -33,7 +33,7 @@ async def checker(codes):
                 json = await RESPONSE.json()
 
                 if json["message"] == 'You are being rate limited.':
-                    raise SystemExit("Достиг лимит на запросы к Discord Nitro Api")
+                    print("Достиг лимит на запросы к Discord Nitro Api.Пожалуйста отключите бота!")
     else:
         if checks_elements(valid_codes) > 1:
             return valid_codes
